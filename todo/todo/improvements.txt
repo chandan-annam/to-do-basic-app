@@ -1,0 +1,33 @@
+css for delete and update
+prioritizes table into 4 parts
+delete warning at same spot not rerouting to other page
+update local task
+adding percent completion of task
+set id to reset every time to normal
+add time and set alarms to work directly 
+work for other days as todo week
+adding songs or modes and many customizations to users (based on their daily work like student,jobber,personal work and many more)
+voice add tasks and replying with ai
+make login form for users
+make it into app to download
+upload in heroku (virtual env djangotest1)
+git usage 
+calender storing things for old days work 
+sending list to other sharing work dividing tasks 
+task in tasks all task functions to tasks in task 
+setting alarms once at a time for all tasks
+showing missed alarms due to phone shutdowns and predicting battery life so that reminders were given well before battery dead
+showing updated data in front view or full list according to user settings
+advertisements are removed by payment
+having entries even after updating things
+work offline without internet
+accomplishment statistics
+quick add task 
+working with different modes like sleep and silent,asking permissions
+backing up to drive or some format to change phones
+making data human readable and downloadable and backup so that user don't lose data
+adding bucket lists ,timeline list ,priority list
+message schedular ,notify changes to people working in teams
+long term goals and workouts and many planner.
+other app integrations like ok-google 
+stay focus mode to do work
